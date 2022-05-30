@@ -2,7 +2,7 @@ Hi 👋 My name is Prasetyo Nur Hidayat
 =====================================
 
 * 🌍  I'm based in Yogyakarta
-* 🖥️  See my portfolio at [MyPortfolio](http://yotech.my.id)
+* 🖥️  See my portfolio at [MyPortfolio](http://prasetyonh.my.id)
 * ✉️  You can contact me at [prasetyonurhidayat@gmail.com](mailto:prasetyonurhidayat@gmail.com)
 * 🌱  I'm Currently learning Fullstack Javascript
 * 🤝  I'm open to collaborating on interesting projects
